@@ -1,2 +1,3 @@
 Once upon a time
-There was a **beautiful** _princess_
+There was a **evil** _witch_
+and everyone was afraid of her
