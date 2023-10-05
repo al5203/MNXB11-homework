@@ -1,0 +1,39 @@
+--2023-09-18 12:06:08--  https://canvas.education.lu.se/files/4047200/download?download_frd=1
+Resolving canvas.education.lu.se (canvas.education.lu.se)... 54.246.88.58, 54.171.11.205, 54.77.87.134
+Connecting to canvas.education.lu.se (canvas.education.lu.se)|54.246.88.58|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://a13596-4047200.cluster84.canvas-user-content.com/files/13596~4047200/download?download_frd=1 [following]
+--2023-09-18 12:06:08--  https://a13596-4047200.cluster84.canvas-user-content.com/files/13596~4047200/download?download_frd=1
+Resolving a13596-4047200.cluster84.canvas-user-content.com (a13596-4047200.cluster84.canvas-user-content.com)... 54.77.87.134, 54.171.11.205, 54.246.88.58
+Connecting to a13596-4047200.cluster84.canvas-user-content.com (a13596-4047200.cluster84.canvas-user-content.com)|54.77.87.134|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://inst-fs-dub-prod.inscloudgate.net/files/1a426a1d-c5aa-4178-89f2-fb95b89568d3/Datasets.pdf?download=1&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE2OTQ5OTAwMTgsInVzZXJfaWQiOm51bGwsInJlc291cmNlIjoiL2ZpbGVzLzFhNDI2YTFkLWM1YWEtNDE3OC04OWYyLWZiOTViODk1NjhkMy9EYXRhc2V0cy5wZGYiLCJqdGkiOiI4YzRkMzc1MS04NzQ0LTRhNDEtYjI2YS0wNmNkMTkzOGFiODAiLCJob3N0IjpudWxsLCJvcmlnaW5hbF91cmwiOiJodHRwczovL2ExMzU5Ni00MDQ3MjAwLmNsdXN0ZXI4NC5jYW52YXMtdXNlci1jb250ZW50LmNvbS9maWxlcy8xMzU5Nn40MDQ3MjAwL2Rvd25sb2FkP2Rvd25sb2FkX2ZyZD0xXHUwMDI2bm9fY2FjaGU9dHJ1ZVx1MDAyNnJlZGlyZWN0PXRydWUiLCJleHAiOjE2OTUwNzY0MTh9.LQ36934XeO4r6zhg6opM7aXqPdTmO4NFGWOvW_ewj9TYlW5pxSMn3hle489zQ7imwBzBqbXAX8jwVut6WhXreQ [following]
+--2023-09-18 12:06:09--  https://inst-fs-dub-prod.inscloudgate.net/files/1a426a1d-c5aa-4178-89f2-fb95b89568d3/Datasets.pdf?download=1&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE2OTQ5OTAwMTgsInVzZXJfaWQiOm51bGwsInJlc291cmNlIjoiL2ZpbGVzLzFhNDI2YTFkLWM1YWEtNDE3OC04OWYyLWZiOTViODk1NjhkMy9EYXRhc2V0cy5wZGYiLCJqdGkiOiI4YzRkMzc1MS04NzQ0LTRhNDEtYjI2YS0wNmNkMTkzOGFiODAiLCJob3N0IjpudWxsLCJvcmlnaW5hbF91cmwiOiJodHRwczovL2ExMzU5Ni00MDQ3MjAwLmNsdXN0ZXI4NC5jYW52YXMtdXNlci1jb250ZW50LmNvbS9maWxlcy8xMzU5Nn40MDQ3MjAwL2Rvd25sb2FkP2Rvd25sb2FkX2ZyZD0xXHUwMDI2bm9fY2FjaGU9dHJ1ZVx1MDAyNnJlZGlyZWN0PXRydWUiLCJleHAiOjE2OTUwNzY0MTh9.LQ36934XeO4r6zhg6opM7aXqPdTmO4NFGWOvW_ewj9TYlW5pxSMn3hle489zQ7imwBzBqbXAX8jwVut6WhXreQ
+Resolving inst-fs-dub-prod.inscloudgate.net (inst-fs-dub-prod.inscloudgate.net)... 54.76.66.249, 54.75.231.36, 54.77.135.29
+Connecting to inst-fs-dub-prod.inscloudgate.net (inst-fs-dub-prod.inscloudgate.net)|54.76.66.249|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn.inst-fs-dub-prod.inscloudgate.net/3c1ac21e-ad5d-40a6-9932-0dc0011c01cc/Datasets.pdf?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii8zYzFhYzIxZS1hZDVkLTQwYTYtOTkzMi0wZGMwMDExYzAxY2MvRGF0YXNldHMucGRmIiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6bnVsbCwiaWF0IjoxNjk0OTkwMDE4LCJleHAiOjE2OTUwNzY0MTh9.YegRgzvavDBDqUslGcWwoy8WEgKkYUBShpvmPf6AHNir4T5IvzyiyCArX1d_oQkIOUykckWd2wKQGqcVKUCJuQ&download=1&content_type=application%2Fpdf [following]
+--2023-09-18 12:06:09--  https://cdn.inst-fs-dub-prod.inscloudgate.net/3c1ac21e-ad5d-40a6-9932-0dc0011c01cc/Datasets.pdf?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii8zYzFhYzIxZS1hZDVkLTQwYTYtOTkzMi0wZGMwMDExYzAxY2MvRGF0YXNldHMucGRmIiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6bnVsbCwiaWF0IjoxNjk0OTkwMDE4LCJleHAiOjE2OTUwNzY0MTh9.YegRgzvavDBDqUslGcWwoy8WEgKkYUBShpvmPf6AHNir4T5IvzyiyCArX1d_oQkIOUykckWd2wKQGqcVKUCJuQ&download=1&content_type=application%2Fpdf
+Resolving cdn.inst-fs-dub-prod.inscloudgate.net (cdn.inst-fs-dub-prod.inscloudgate.net)... 143.204.237.48, 143.204.237.59, 143.204.237.122, ...
+Connecting to cdn.inst-fs-dub-prod.inscloudgate.net (cdn.inst-fs-dub-prod.inscloudgate.net)|143.204.237.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228346 (223K) [application/pdf]
+Saving to: ‘input_1’
+
+     0K .......... .......... .......... .......... .......... 22% 8,82M 0s
+    50K .......... .......... .......... .......... .......... 44% 4,51M 0s
+   100K .......... .......... .......... .......... .......... 67% 11,4M 0s
+   150K .......... .......... .......... .......... .......... 89% 11,7M 0s
+   200K .......... .......... ..                              100% 18,4M=0,03s
+
+2023-09-18 12:06:09 (8,37 MB/s) - ‘input_1’ saved [228346/228346]
+
+--2023-09-18 12:06:09--  https://github.com/floridop/MNXB11-BASH/blob/main/unexistingfile
+Resolving github.com (github.com)... 140.82.121.4
+Connecting to github.com (github.com)|140.82.121.4|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2023-09-18 12:06:09 ERROR 404: Not Found.
+
+--2023-09-18 12:06:10--  http://unexistingaddress.lu.se/
+Resolving unexistingaddress.lu.se (unexistingaddress.lu.se)... failed: Name or service not known.
+wget: unable to resolve host address ‘unexistingaddress.lu.se’
