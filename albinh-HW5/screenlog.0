@@ -1,0 +1,64 @@
+kalbinh@cosmos2:~\[?2004h[albinh@cosmos2 ~]$ cd git
+[?2004lkalbinh@cosmos2:~/git\[?2004h[albinh@cosmos2 git]$ cd MNXB11-homework/
+[?2004lkalbinh@cosmos2:~/git/MNXB11-homework\[?2004h[albinh@cosmos2 MNXB11-homework]$ cd Aa[K[Kalbinh-HW5/
+[?2004lkalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ sbatch Albin-solution.sh
+[?2004lSubmitted batch job 83809
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ sbatch Albin-solution.sh
+[?2004lSubmitted batch job 83811
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ squeue -u albinh
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+             83811      lu48 simple j   albinh  R       0:15      1 cn002
+             83809      lu48 simple j   albinh  R       0:26      1 cn002
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ scancel 83811
+[?2004lkalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ scontrol show job 83811[K[K09
+[?2004lJobId=83809 JobName=simple job
+   UserId=albinh(32205) GroupId=mnxb11(32200) MCS_label=N/A
+   Priority=67882 Nice=0 Account=lu2023-7-4 QOS=normal
+   JobState=RUNNING Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:01:06 TimeLimit=00:05:00 TimeMin=N/A
+   SubmitTime=2023-10-06T11:02:01 EligibleTime=2023-10-06T11:02:01
+   AccrueTime=2023-10-06T11:02:01
+   StartTime=2023-10-06T11:02:01 EndTime=2023-10-06T11:07:01 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2023-10-06T11:02:01 Scheduler=Main
+   Partition=lu48 AllocNode:Sid=cosmos2:1087128
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=cn002
+   BatchHost=cn002
+   NumNodes=1 NumCPUs=1 NumTasks=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,mem=5300M,node=1,billing=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryCPU=5300M MinTmpDiskNode=0
+   Features=(null) DelayBoot=00:00:00
+   OverSubscribe=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/albinh/git/MNXB11-homework/albinh-HW5/Albin-solution.sh
+   WorkDir=/home/albinh/git/MNXB11-homework/albinh-HW5
+   StdErr=/home/albinh/git/MNXB11-homework/albinh-HW5/slurm-83809.out
+   StdIn=/dev/null
+   StdOut=/home/albinh/git/MNXB11-homework/albinh-HW5/slurm-83809.out
+   Power=
+   
+
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ squeue - [Ku Al[K[Kalbinh
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+             83809      lu48 simple j   albinh  R       1:29      1 cn002
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ sbatch -u[K[K[K[K[K[K[K[K[Ksqueue -u albinhcontrol show job 83809[10Pancel 83811queue -u albinhbatch Albin-solution.sh
+[?2004lSubmitted batch job 83814
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ sbatch Albin-solution.sh[8Pqueue -u albinh
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+             83809      lu48 simple j   albinh  R       3:05      1 cn002
+             83814      lu48 simple j   albinh  R       1:14      1 cn002
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ squeue -u albinh
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+             83809      lu48 simple j   albinh  R       4:41      1 cn002
+             83814      lu48 simple j   albinh  R       2:50      1 cn002
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ squeue -u albinh
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+             83814      lu48 simple j   albinh  R       4:17      1 cn002
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ squeue -u albinh
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+             83814      lu48 simple j   albinh  R       4:52      1 cn002
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ squeue -u albinh
+[?2004l             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+kalbinh@cosmos2:~/git/MNXB11-homework/albinh-HW5\[?2004h[albinh@cosmos2 albinh-HW5]$ exit
+[?2004lexit
